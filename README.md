@@ -4,6 +4,9 @@
 ## Me chamo Gabriel Fraga e este é o meu perfil no **GitHub.** 
 - Aqui se encontra um pouco do meu trabalho. Fique a vontade para explorá-lo.
 
+![Alvo Dumbledore](https://media.giphy.com/media/9H279yb0blggo/giphy.gif)
+
+
 
 ## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -29,7 +32,9 @@ Segue as minhas redes socias:
 
 
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFraga962&layout=compact&theme=vision-friendly-dark" />
+
 <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=GabrielFraga962&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+
 
 
 
