@@ -8,7 +8,7 @@
 - Aqui se encontra um pouco do meu trabalho. Fique a vontade para explorá-lo
 
 
-![Doctor Who](https://media.giphy.com/media/cj9406G48vUgLGD9yD/giphy.gif)
+![Cosmos](https://media.giphy.com/media/TCgUh7XRj32Hlt3DfU/giphy.gif)
 
 
 
