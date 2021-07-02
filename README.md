@@ -1,11 +1,11 @@
-# Olá! Bem-Vindo(a) 👋
+# Helo! Welcome 👋
 
 
-## Me chamo Gabriel Fraga e este é o meu perfil no **GitHub.** 
-- 💻 Sou um entusiasta da área de tecnologia
-- 🎮 Gosto de Video Game
-- 🎻 Música Classica é a minha paixão! Assim como o Jazz 
-- Aqui se encontra um pouco do meu trabalho. Fique a vontade para explorá-lo
+## My name is Gabriel Fraga and this is my profile on **GitHub.** 
+- 💻 I'm a technology enthusiast
+- 🎮 I like video game
+- 🎻 Classical Music is my passion! just like jazz 
+- Here is some of my work. Feel free to explore it
 
 
 ![Cosmos](https://media.giphy.com/media/TCgUh7XRj32Hlt3DfU/giphy.gif)
@@ -14,7 +14,7 @@
 
 ## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
 
-## Segue as minhas redes socias:
+## Follow my social networks:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-s-976256110/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielFraga962)
