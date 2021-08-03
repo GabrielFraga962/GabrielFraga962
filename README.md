@@ -7,8 +7,10 @@
 - 🎻 Classical Music is my passion! just like jazz 
 - Here is some of my work. Feel free to explore it
 
+<p align="center">
+  <img src="https://media.giphy.com/media/TCgUh7XRj32Hlt3DfU/giphy.gif" alt="Cosmos"/>
+</p>
 
-![Cosmos](https://media.giphy.com/media/TCgUh7XRj32Hlt3DfU/giphy.gif)
 
 
 
@@ -34,7 +36,6 @@
 
 
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFraga962&layout=compact&theme=vision-friendly-dark" />
-
 <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=GabrielFraga962&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 
 
