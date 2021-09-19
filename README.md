@@ -5,6 +5,7 @@
 - 💻 I'm a technology enthusiast
 - 🎮 I like video game
 - 🎻 Classical Music is my passion! just like jazz 
+- Studying Power BI for Data Science 📊
 - Here is some of my work. Feel free to explore it
 
 <p align="center">
