@@ -42,6 +42,7 @@
 
 
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFraga962&layout=compact&theme=vision-friendly-dark" />
+
 <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=GabrielFraga962&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 
 <!-- <img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFraga962" />
