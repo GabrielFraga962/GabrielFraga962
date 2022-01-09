@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/TCgUh7XRj32Hlt3DfU/giphy.gif" alt="Cosmos"/>
+  <img src=https://i.imgur.com/a88RHwS.png" height="500" width="500" alt="Cosmos"/>
 </p>
 
 ---
@@ -39,14 +39,16 @@
 
 
 ## &#x1f4c8; GitHub Stats
+                                                                                                          
+<p align="center">
+<img align="center"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFraga962&layout=compact&theme=gruvbox_light" />
 
+<br>
 
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFraga962&layout=compact&theme=vision-friendly-dark" />
+<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=GabrielFraga962&show_icons=true,css&layout=compact&theme=gruvbox_light" />
 
-<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=GabrielFraga962&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+<!-- <img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFraga962" /></p>
 
-<!-- <img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFraga962" />
- -->
 
 
 
