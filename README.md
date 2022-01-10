@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src=https://i.imgur.com/a88RHwS.png" height="500" width="500" alt="Cosmos"/>
+  <img src=https://i.imgur.com/a88RHwS.png" height="400" width="400" alt="Cosmos"/>
 </p>
 
 ---
@@ -41,11 +41,11 @@
 ## &#x1f4c8; GitHub Stats
                                                                                                           
 <p align="center">
-<img align="center"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFraga962&layout=compact&theme=gruvbox_light" />
+<img align="center"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFraga962&layout=compact&theme=blue-green" />
 
 <br>
 
-<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=GabrielFraga962&show_icons=true,css&layout=compact&theme=gruvbox_light" />
+<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=GabrielFraga962&show_icons=true,css&layout=compact&theme=blue-green" />
 
 <!-- <img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFraga962" /></p>
 
