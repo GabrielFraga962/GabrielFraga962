@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src=https://i.imgur.com/a88RHwS.png" height="400" width="400" alt="Cosmos"/>
+  <img src="https://i.imgur.com/XNAk8jQ.png" height="400" width="400" alt="Cosmos"/>
 </p>
 
 ---
