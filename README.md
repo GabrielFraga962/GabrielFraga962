@@ -49,12 +49,11 @@
 
 ## &#x1f4c8; GitHub Stats
                                                                                                  
-<p align="center">
-<img align="center" padding:"30px"   width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFraga962&layout=compact&theme=blue-green" />
-  
-<div style="padding: 30px 0 20px" align="center">         
-<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=GabrielFraga962&show_icons=true,css&layout=compact&theme=blue-green" />
+<div align="center">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=GabrielFraga962&show_icons=true&title_color=00B5FF&text_color=FFFFFF&theme=highcontrast" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFraga962&title_color=00B5FF&text_color=FFFFFF&layout=compact&theme=highcontrast" />
 </div>
+      
+
 <!-- <img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFraga962" /></p>
 
 
