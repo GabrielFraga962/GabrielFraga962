@@ -52,7 +52,13 @@
 <div align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=GabrielFraga962&show_icons=true&title_color=00B5FF&text_color=FFFFFF&theme=highcontrast" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFraga962&title_color=00B5FF&text_color=FFFFFF&layout=compact&theme=highcontrast" />
 </div>
-      
+
+---
+
+## Certificações 
+
+[Veja meu badge na Credly](https://www.credly.com/badges/57ff8347-09b2-4dee-875d-55c7614ec050)
+
 
 <!-- <img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFraga962" /></p>
 
