@@ -49,9 +49,9 @@
 
 ## &#x1f4c8; GitHub Stats
                                                                                                  
-<div align="center">
+<!-- <div align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=GabrielFraga962&show_icons=true&title_color=00B5FF&text_color=FFFFFF&theme=highcontrast" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFraga962&title_color=00B5FF&text_color=FFFFFF&layout=compact&theme=highcontrast" />
-</div>
+</div> -->
 
 ---
 
